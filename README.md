@@ -42,6 +42,7 @@
 | [0075-sort-colors](https://github.com/sk-0507/LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/sk-0507/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sk-0507/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/sk-0507/LeetCode/tree/master/0792-binary-search) |
 # Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sk-0507/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/sk-0507/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sk-0507/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/sk-0507/LeetCode/tree/master/0792-binary-search) |
 # Matrix
 |  |
 | ------- |
