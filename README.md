@@ -13,6 +13,7 @@
 # String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sk-0507/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/sk-0507/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sk-0507/LeetCode/tree/master/0344-reverse-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sk-0507/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -50,6 +51,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sk-0507/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/sk-0507/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sk-0507/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sk-0507/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -102,3 +104,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/sk-0507/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sk-0507/LeetCode/tree/master/0005-longest-palindromic-substring) |
