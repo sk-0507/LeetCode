@@ -15,6 +15,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/sk-0507/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sk-0507/LeetCode/tree/master/0344-reverse-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sk-0507/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 # Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sk-0507/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/sk-0507/LeetCode/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/sk-0507/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sk-0507/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 # Two Pointers
 |  |
 | ------- |
