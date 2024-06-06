@@ -4,6 +4,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sk-0507/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/sk-0507/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/sk-0507/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/sk-0507/LeetCode/tree/master/0242-valid-anagram) |
@@ -25,6 +26,7 @@
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sk-0507/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sk-0507/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/sk-0507/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sk-0507/LeetCode/tree/master/0018-4sum) |
