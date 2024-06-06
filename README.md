@@ -28,6 +28,7 @@
 | [0015-3sum](https://github.com/sk-0507/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sk-0507/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sk-0507/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sk-0507/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sk-0507/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sk-0507/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sk-0507/LeetCode/tree/master/0035-search-insert-position) |
@@ -44,6 +45,7 @@
 | [0015-3sum](https://github.com/sk-0507/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sk-0507/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sk-0507/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sk-0507/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/sk-0507/LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/sk-0507/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sk-0507/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
