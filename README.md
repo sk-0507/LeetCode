@@ -78,3 +78,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sk-0507/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+# Database
+|  |
+| ------- |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sk-0507/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
