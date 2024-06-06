@@ -26,6 +26,7 @@
 | ------- |
 | [0018-4sum](https://github.com/sk-0507/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sk-0507/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sk-0507/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/sk-0507/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/sk-0507/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sk-0507/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -51,6 +52,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sk-0507/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sk-0507/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/sk-0507/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sk-0507/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
