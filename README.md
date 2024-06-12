@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sk-0507/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/sk-0507/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sk-0507/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sk-0507/LeetCode/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/sk-0507/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -65,6 +66,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sk-0507/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sk-0507/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/sk-0507/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/sk-0507/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sk-0507/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sk-0507/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sk-0507/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
