@@ -17,6 +17,7 @@
 | [0242-valid-anagram](https://github.com/sk-0507/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sk-0507/LeetCode/tree/master/0344-reverse-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sk-0507/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [3379-score-of-a-string](https://github.com/sk-0507/LeetCode/tree/master/3379-score-of-a-string) |
 # Sorting
 |  |
 | ------- |
