@@ -19,6 +19,7 @@
 | [0344-reverse-string](https://github.com/sk-0507/LeetCode/tree/master/0344-reverse-string) |
 | [1205-defanging-an-ip-address](https://github.com/sk-0507/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sk-0507/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sk-0507/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/sk-0507/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/sk-0507/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 # Sorting
@@ -52,6 +53,7 @@
 | [0792-binary-search](https://github.com/sk-0507/LeetCode/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/sk-0507/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sk-0507/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sk-0507/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 # Two Pointers
 |  |
 | ------- |
@@ -112,3 +114,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sk-0507/LeetCode/tree/master/0005-longest-palindromic-substring) |
+# Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sk-0507/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
