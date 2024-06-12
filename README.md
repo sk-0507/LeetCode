@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sk-0507/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sk-0507/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/sk-0507/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sk-0507/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sk-0507/LeetCode/tree/master/0344-reverse-string) |
@@ -65,6 +66,7 @@
 | [0018-4sum](https://github.com/sk-0507/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sk-0507/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sk-0507/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sk-0507/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/sk-0507/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sk-0507/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sk-0507/LeetCode/tree/master/0344-reverse-string) |
@@ -122,3 +124,7 @@
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sk-0507/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+# String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sk-0507/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
