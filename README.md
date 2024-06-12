@@ -10,6 +10,7 @@
 | [0242-valid-anagram](https://github.com/sk-0507/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sk-0507/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sk-0507/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0782-jewels-and-stones](https://github.com/sk-0507/LeetCode/tree/master/0782-jewels-and-stones) |
 | [3412-permutation-difference-between-two-strings](https://github.com/sk-0507/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 # String
 |  |
@@ -17,6 +18,7 @@
 | [0005-longest-palindromic-substring](https://github.com/sk-0507/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/sk-0507/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sk-0507/LeetCode/tree/master/0344-reverse-string) |
+| [0782-jewels-and-stones](https://github.com/sk-0507/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/sk-0507/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sk-0507/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sk-0507/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
