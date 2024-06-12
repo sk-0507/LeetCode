@@ -127,4 +127,9 @@
 # String Matching
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sk-0507/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sk-0507/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sk-0507/LeetCode/tree/master/0014-longest-common-prefix) |
